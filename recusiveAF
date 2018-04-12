@@ -1,0 +1,6 @@
+function recusiva () {
+    hola();
+    quieroMorir();
+    recursiva();
+
+}
